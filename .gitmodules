@@ -1,0 +1,3 @@
+[submodule "UMServer/DTOs"]
+	path = UMServer/DTOs
+	url = https://github.com/mphjens/UnityMultiplayer-DTOs
