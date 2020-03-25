@@ -1,0 +1,4 @@
+E:\Projecten\UMServer\UMServer\obj\Debug\netcoreapp3.1\UMServer.csprojAssemblyReference.cache
+E:\Projecten\UMServer\UMServer\obj\Debug\netcoreapp3.1\UMServer.csproj.CoreCompileInputs.cache
+E:\Projecten\UMServer\UMServer\obj\Debug\netcoreapp3.1\UMServer.AssemblyInfoInputs.cache
+E:\Projecten\UMServer\UMServer\obj\Debug\netcoreapp3.1\UMServer.AssemblyInfo.cs
